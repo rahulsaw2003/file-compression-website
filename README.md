@@ -38,6 +38,9 @@ Huffman coding is a widely used algorithm for lossless data compression. It achi
 5. Once the compression is complete, the compression result will be displayed, including the original file size, compressed file size, and the encoded content.
 6. You can download the compressed file by clicking on the "Download" button.
 
+## Preview Website
+
+[Website URL](https://file-compression.netlify.app/)
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
